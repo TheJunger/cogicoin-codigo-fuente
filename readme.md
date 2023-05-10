@@ -17,20 +17,12 @@ El mod Cogicoin añade 4 tipos de monedas esteticas al juego: Cogicoin de Cobre,
 ## Crafteos
 
 * Crafteo de Cogicoin de Cobre:
-<br>
-<br>
-![Crafteo de moneda de cobre](mdrsc/silverToCopper.png)
-<br>
+    * ![Crafteo de moneda de cobre](mdrsc/silverToCopper.png)
 * Crafteo de Cogicoin de Plata:
-<br>
-<br>
-![Crafteo de moneda de plata](mdrsc/copperToSilver.png)
-![Crafteo de moneda de plata](mdrsc/goldToSilver.png)
-<br>
+    * ![Crafteo de moneda de plata](mdrsc/copperToSilver.png)
+    * ![Crafteo de moneda de plata](mdrsc/goldToSilver.png)
 * Crafteo de Cogicoin de Oro:
-<br>
-<br>
-![Crafteo de moneda de plata](mdrsc/silverToGold.png)
+    * ![Crafteo de moneda de plata](mdrsc/silverToGold.png)
 
 ## Instalacion
 1. Descarga el archivo JAR del mod desde el siguiente [enlace de descarga](https://www.mediafire.com/file/5y4fp1jsm5dyp7z/cogicoin-1.1.0.jar/file).
